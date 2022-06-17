@@ -1,0 +1,25 @@
+img.mapping {
+    display: block;
+    margin: 0 auto;
+    width: 260px;
+    height: 248px;
+}
+
+img.demo {
+    filter: brightness(2%);
+    filter: contrast(2%);
+ }
+
+iframe {
+    height: 40%;
+    width: 40%;
+ }
+
+table, td {
+     border: 1px solid #333;
+ }
+ 
+thead, tfoot {
+     background-color: #333;
+     color: #fff;
+ }
